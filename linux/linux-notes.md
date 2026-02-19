@@ -29,10 +29,6 @@ Here is how to safely change ownership and permissions:
 - Change permissions (least privilege principle)
   
  `chmod 751 /path/to/file`
- 
-- Example :
-
-![snapshot](file_permission.png)
 
 ## Cheat sheet refresh
 
