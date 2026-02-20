@@ -16,3 +16,8 @@ It’s designed to be:
 **Practical:** quick lookup during projects or interviews
 **Reusable:** modular notes that can be extended as I learn more
 **Organized:** structured by topic for easy navigation
+
+## 90DaysOfDevOps
+If you’d like to dive deeper into my detailed notes and daily progress, check out my dedicated repository:
+
+https://github.com/Afroz-J-Shaikh/90DaysOfDevOps/tree/master/2026
